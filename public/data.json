@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Floating Phone",
+            "image": "https://s3-alpha-sig.figma.com/img/2b79/e11e/d885dbe3ab31e6f0c95ec64b26599246?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CmMLWYM-zmGGf6JCWZmK6z2JIpsHNaLbeV8lHnyJtF9HhtwpEUL21PtrqyTXi4qzFpEHTNs1tclSC~pFvsH3DWwg3McA8AUWC3NvPv-IX3aaQsEdIcAwRoIbo7cc31snw7SOFZvkNCkl4Nx83uAs4eivkBpw3d7gIeYfG6hvzhInzcPaUxNisPgOsyhWAC1VQHv9fdSrEJHKZNioVyapfujLJrkTsrjVhPszaPpOVgUwjbI0JpOmsBLjEs-WRlNODaJUZ33cwNv9~t7YmmH20LXClRFHIu8NJnQZV4~4PN-~FLEIktxhwv04zH8H9suc8Z-eDFLS1JRWAPljV4ur2A__",
+            "altImage": "https://s3-alpha-sig.figma.com/img/8823/5526/0767f5620ba9dda5365be14f4ce71741?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NKw7z2pcxxK99M4SunR05OcAszI-V10ZmU6eph5Q02GnFG19w9lbCX53T281C0WbETKv45IaJ71vlB6qHoZooeWe4tTMOhqfvc~03IbQsdhBxZURduF6iIjyxxSo1wBhVxOqQC2DSmbM3pR4Tum7VWli8jtWGmj5z2bUWRlVvo7uX93nSIw7Ox6hEWW9LcS986FsDmhXPse2NQDDuUIanyisN14Ly3QaYmfwNfSi0dXGBKJpC~cKKHRLaZWX1Gc0RHFdcGf1gUePoaoFLllipHEfVj6uv-3HkZ-PvUaI7AyUsYBqVBusJyA04vmYy9SIt7VsVR1fubjABRM3gNJ6Bg__",
+            "price": 1139.33,
+            "description": "Maecenas Mollie non desert Alamo est sit cliquey dolor do met sent. RELIT official consequent dour ENIM RELIT Mollie Excitation venial consequent sent nostrum met.",
+            "favorite": true,
+            "cart": false
+        },
+        {
+            "id": 2,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/0bfc/bfef/c49b63d0071c5ef94c3d4dde5f05172f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lu4~9jCTHtRtdKNsCil1B9ymQ-QgD7rbqNGOyILXDX-bZy5bSss86hdREN0ch9~P4fqwnJnKCgCbCn2xQx1fMhw-gBaDWUYwt6E2ek0IbP7IBb0bRfVL3mvConqXXbwTwlmtur6-iFhTMgNKVonPvymCAA9SSjk8BFko0tq6ElezPqnn3nSVfgbREnSsc39lq4Rd-kK2O7T4JgbANJgGrevyHleY1FehQ4lYu-lAkEkGdZbK0dbFHH6tjROH2gCDb1EZFp7-UojBYx1OV~ddZPYmYsPF84YsmcKv9jxJkbwVbkINWW3T6NmQfEvbSLSp~oA17UffPIME4PSxzvVpDg__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": true
+        },
+        {
+            "id": 3,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/f454/f9ee/9a7979dac6cbd7699a260c7deacd7b13?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=d7kD2wNB7hxvoHV2BVp-3vi7U2qmvVeXhy8Jh2xqzdhROcCun8lHWpv4Dhx24Bd1vCcj3mdNhAkpnXVQqtQTL7zDyIuodc0-JyNGnGojC3w1Ncg42E8ehVAMyowoFNCE-sYgwac35S~19RnAYVn~EWRV5jmbzAdt1h5N9sWasUkTbv5b1BeV6HRbf5p-anMoLTdokrDZjWxg55imRoTXxwoaIsvWBYcgNy34j3FELv74~NhJjanPOxxGX01wigftIJF1JzGJlWTxdoU7MC7WCLlKPh90anuthoQ2DmLjOzUaIckeTyQwd~T92rszjMPeRl7SLTnvOj1~e98-NqL21g__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        },
+        {
+            "id": 4,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/685f/2d7c/3cabc3250d9fd223e5b93cebd2761439?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U4uHU0edePFhs2LUFF9a6~q2OYggSTVUGez8Hyzw7cuahqBux1NCzr2MdXt78CBTOqWXOflJ1CESPJmp7pNdF8lJYEp7YuT0d8Gvi7sJb0TaWbm62AMHprcm0~EtSqdPcTTfqRLQHke0k9gNty~hv4g1x27w33xUk6sMIq2c3bgwOQBVdFH2br6F0I8T8LKbveJSuQenID7lbICRRnDm6nX93FPsAbEQbzAOcdVJJWxWbUx2jbSX73ZvJ0drcVP0pnDn4LaUw2N4eD9FU9Hwv8c-mO~KKn8aqfD9BmzkikbjNRGB0Z0UVY4SEM9MY6xu7VfqtD2YH6fI3M8LILd0tg__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        },
+        {
+            "id": 5,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/079b/4c5d/47938d7b09087b31f361063fb40f9a11?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X1~yLl2VWRjT~JEz~h0UMeG9Zvdakluwm72tZXIM7FhNu-UAY9i~d46sbfoLLAC82n4rub8sNEPcUa46s8k1XmgDQkdcwMZ6QuQNVtHVuQmI0gk5bTkGEHMBUoAmId~m51qhLsSfVjR1aj3~ZjGDTvzTuHwWdw1qeuqYFxUYbYXocqt5q108dCiQeJ1wgEIZekwe4Gz1~2NZfrLWJ4TmjrJD~uz0zRlIMCW5FV~Gtt6~Fc2wKkscyUPLjgGaKbSLuE3BXTYIaGXSzBfsZIdbxUHerVNav0Cxs4B~fSrHr64iI2CdarfZclFaCZuCNFMhweWH6M81DkeBLVdNVQ47ZA__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        },
+        {
+            "id": 6,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/926b/f1d6/5669af4e049e20ceb30aa6408b6a79f3?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bGuOmJus1ktqal3SIpu1GVbBBd1hq0sBn~W9bSuDuUjDujjboi8Y2Xg~GOO4WNGE4k8MlDpWtnFDKKCSj0oSffncyj9o~QXgBTNgdTVBr77KEdH3JtnnIegAKYzDTbsPTpyEq-c4KyXP-9KMq88YSJBYX10uo3KCXcu1dSSCLCSWi3hIx4dJIW7183ElI0B0sf4r0A9MilaLNf3dPKGF3yihmIMaI86s~RMZ5nbTyeq~rZPUCPF2IKT4hYzNOts2DpNrtL2ljtVJyd8CKL7FQQ57m1amKsikJtTp6yD0nN~G-9qgW~T8Z5ar1fBiNhxGHbCsJ6Ah6-~pVn6lK-7~DQ__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        },
+        {
+            "id": 7,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/0bfc/bfef/c49b63d0071c5ef94c3d4dde5f05172f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lu4~9jCTHtRtdKNsCil1B9ymQ-QgD7rbqNGOyILXDX-bZy5bSss86hdREN0ch9~P4fqwnJnKCgCbCn2xQx1fMhw-gBaDWUYwt6E2ek0IbP7IBb0bRfVL3mvConqXXbwTwlmtur6-iFhTMgNKVonPvymCAA9SSjk8BFko0tq6ElezPqnn3nSVfgbREnSsc39lq4Rd-kK2O7T4JgbANJgGrevyHleY1FehQ4lYu-lAkEkGdZbK0dbFHH6tjROH2gCDb1EZFp7-UojBYx1OV~ddZPYmYsPF84YsmcKv9jxJkbwVbkINWW3T6NmQfEvbSLSp~oA17UffPIME4PSxzvVpDg__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        },
+        {
+            "id": 8,
+            "name": "Graphic Design",
+            "image": "https://s3-alpha-sig.figma.com/img/a93e/41b4/2e460896a15fe5f82a56836939f30577?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZLfb7RdO06Zce3kFTp~6XUmFV6~1H4BJQ1IFX-AQR8V4WOEk4UzuSPUiGueYYE9z~ErhlcHv7fH6Vs0~jjoMm0xSisvjLF6HTkxpdyUW~6XYHb0zieblOkdSUTRW5yd52cT1XOvocFTXZfD7bAwr-idXesr2zSEH6RIzmH35ULyd3G9fLL86oN9HJkkiq6KpZgq2eSJNoVUyWyJ4SeGWirIowKWcSv-YAU6ah~DN8QVJE92SQOBZDhKbtIY8phCgGpR0-~MgS-rFBJgM0P-lDoVFPkaalIcGXQtqcHoJWKvBCpZOa2UObRn1J36-nTJjyrgjyOYu2DbcK~TSYTNaXQ__",
+            "price": 16.48,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+            "favorite": false,
+            "cart": false
+        }
+    ],
+    "profile": {
+        "id": 1,
+        "name": "Rifa Indra Setiawan",
+        "email": "rifaindrasetiawan@mail.ugm.ac.id",
+        "favorites": [1],
+        "cart": [2] 
+    }
+}
