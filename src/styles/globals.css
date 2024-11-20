@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -13,9 +15,43 @@
     --foreground: #ededed;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+swiper-container {
+  width: 800px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+}
+
+swiper-slide {
+  background-color: rgb(4 47 46);
+  color: #ffff;
+  font-size: 25px;
+}
+
+
+swiper-slide:nth-child(2) {
+  background-color: rgb(15 118 110);
+}
+
+swiper-slide:nth-child(3) {
+  background-color: rgb(45 212 191);
+}
+
+swiper-slide:nth-child(4) {
+  background-color: rgb(153 246 228);
+}
+
+swiper-slide:nth-child(5) {
+  background-color: rgb(34 197 94);
 }
