@@ -1,3 +1,5 @@
+import React from 'react';
+
 interface ProductProps {
   id: number;
   name: string;
@@ -5,7 +7,11 @@ interface ProductProps {
   image: string;
 }
 
-const ProductCard = ({ product }: { product: ProductProps }) => {
+const ProductCard: React.FC<{ product?: ProductProps }> = ({ product }) => {
+  if (!product) {
+    return null;
+  }
+
   return (
     <div className="p-2 rounded-lg hover:shadow-lg">
       <img src={product.image} alt={product.name} className="w-full sm:w-full h-60 sm:h-40 object-cover" loading="lazy" />
@@ -22,4 +28,3 @@ const ProductCard = ({ product }: { product: ProductProps }) => {
 };
 
 export default ProductCard;
-    

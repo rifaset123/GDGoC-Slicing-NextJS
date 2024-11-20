@@ -23,7 +23,18 @@ interface ProductDetailProps {
   };
 }
 
-const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
+const defaultProduct = {
+  id: 0,
+  name: "",
+  image: "",
+  altImage: "",
+  price: 0,
+  description: "",
+  favorite: false,
+  cart: false,
+};
+
+const ProductDetail: React.FC<ProductDetailProps> = ({ product = defaultProduct }) => {
   const [isClicked, setIsClicked] = useState(product.favorite);
   const [activeImage, setActiveImage] = useState(0);
 
